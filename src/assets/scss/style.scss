@@ -160,7 +160,7 @@ body {
     }
 
     &.text-3 {
-        transform: translate(0%, 147%)
+        transform: translate(2%, 165%)
     }
 
     &.text-4 {
@@ -176,19 +176,19 @@ body {
     }
 
     &.text-7 {
-        transform: translate(-35%, 220%)
+        transform: translate(-33.5%,253%)
     }
 
     &.text-8 {
-        transform: translate(-37.2%, 421%)
+        transform: translate(-34.5%, 475%)
     }
 
     &.text-9 {
-        transform: translate(-42.75%, 590%)
+        transform: translate(-40.75%, 617%)
     }
 
     &.text-10 {
-        transform: translate(-12.75%, 960%)
+        transform: translate(-16.75%,932%)
     }
 
     &.text-11 {
@@ -213,7 +213,7 @@ body {
         opacity: 0;
     }
 
-    5% {
+    2% {
         opacity: 1;
     }
 
@@ -221,7 +221,7 @@ body {
         opacity: 1;
     }
 
-    25%,
+    22%,
     100% {
         offset-distance: 0%;
         opacity: 0;
