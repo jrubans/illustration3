@@ -47,35 +47,6 @@ body {
         left: 0;
         right: 0;
         overflow: visible !important;
-
-        &.top-platform-svg {
-            width: 52.75%;
-            margin: auto;
-            left: -0.5%;
-            right: 0;
-            bottom: 16.25%;
-            z-index: 10;
-
-            g {
-                overflow: visible;
-            }
-        }
-
-        &.base-platform-svg {
-            width: 97%;
-            margin: auto;
-            left: -0.5%;
-            right: 0;
-            bottom: 0.5%;
-        }
-
-        &.logos-svg {
-            width: 100%;
-            margin: auto;
-            left: 0;
-            right: 0;
-            bottom: 0;
-        }
     }
 }
 
